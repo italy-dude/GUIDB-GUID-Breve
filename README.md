@@ -20,6 +20,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   Here some examples of GUID-B and corresponding string representation of GUID:
  
   388H6BSHJ#SBREDWWQ#2QVEJFS {79bbb700-c19c-44dc-8213-045f08e3cb72}
+  
   9FTNBZN48ZIU7HIDRS77SC5QHU {f96f97e6-98d2-435d-bba7-8f0f7e9fc7dc}
   1B5XVPUJA2GR4DT569ZKJ8Q2DG {ab341e2a-441f-4795-9821-405466347bcf}
   3F1CKQHPZKFDXJS1ZF7Z1X99GH {eca09766-a64a-4ef8-b24d-9c6575a8ebac}
