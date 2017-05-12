@@ -6,7 +6,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
  GUID-Breve or GUID-B (italian shortening for GUID Breve - "Short GUID" in english), is a shorter version of GUID (25-26 chars instead of 36) 
  which can be converted back to a GUID.
  
- One can thus decide storing GUIDs as GUID-Bs and be able in the future to convert them back to GUIDs.
+ One can thus decide storing GUIDs as GUID-Bs and be able in the future to convert them back to GUIDs. :clap:
  Apart from being shorter than GUIDs they have other desired characteristics:
  
   - they don't have the character 0 (zero) and O (capital o) appearing, 1 (one) and l (lowercase l) thus avoiding typing mistakes
