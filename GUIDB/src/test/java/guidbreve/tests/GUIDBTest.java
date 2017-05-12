@@ -46,7 +46,7 @@ public class GUIDBTest
     }
     
     @Test
-    public void installmentTest1()
+    public void guidbTest1()
     {
         for (int i = 0; i < 500; i++)
         {
