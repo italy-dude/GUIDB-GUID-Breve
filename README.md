@@ -49,3 +49,19 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   - Base64 GUIDs contain 0,O,o symbols which could be confusing and also 1,l, GUID-B doesn't
   - Base64 GUIDs have no error detection as opposed to GUID-B's
  
+###Installation###
+
+This project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.
+
+###Uses###
+
+It has been used for outputting meaningful tags for errors which could then be traced back to the code, it's been used for quickly searching documents and 
+relations among them, basically whenever a GUID is needed this shorter and more compact version has been used.
+
+###Versioning###
+
+Git was used for versioning. For the versions available, see the tags on this repository.
+
+###Authors###
+
+    
