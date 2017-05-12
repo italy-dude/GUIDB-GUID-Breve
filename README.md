@@ -1,7 +1,7 @@
 # GUIDB-GUID-Breve
 GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
 
-###Introduction###
+### Introduction ###
 
  GUID-Breve or GUID-B (italian shortening for GUID Breve - "Short GUID" in english), is a shorter version of GUID (25-26 chars instead of 36) 
  which can be converted back to a GUID.
@@ -15,7 +15,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   - they are not case sensitive but generally spelled uppercase for making them more readable
   - they don't appear hyphened of dehyphened and with or without parentheses as with GUIDs
 
-###Examples###
+### Examples ###
   
   Here some examples of GUID-B and corresponding string representation of GUID:
  
@@ -40,7 +40,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   5ARPGKDHLELQP1LIIRP1TJGA47 {a40e6370-6a03-404e-84ae-10fca8ec39c2}
  
  
- ###Advantages over Base64 encoded GUIDs###
+ ### Advantages over Base64 encoded GUIDs ###
   Advantages over Base64 encoded GUIDs are among others:
  
   - Base64 GUIDs are 22 chars instead of 25-26 of GUID-B, not that shorter
@@ -49,19 +49,21 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   - Base64 GUIDs contain 0,O,o symbols which could be confusing and also 1,l, GUID-B doesn't
   - Base64 GUIDs have no error detection as opposed to GUID-B's
  
-###Installation###
+### Installation ###
 
 This project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.
 
-###Uses###
+### Uses ###
 
 It has been used for outputting meaningful tags for errors which could then be traced back to the code, it's been used for quickly searching documents and 
 relations among them, basically whenever a GUID is needed this shorter and more compact version has been used.
 
-###Versioning###
+### Versioning ###
 
 Git was used for versioning. For the versions available, see the tags on this repository.
 
-###Authors###
+### Authors ###
+
+
 
     
