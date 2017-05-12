@@ -12,7 +12,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
   - they don't have the character 0 (zero) and O (capital o) appearing, 1 (one) and l (lowercase l) thus avoiding typing mistakes
   - they may have the * and # characters appearing making eye comparison from a distance easier
   - they have a CRC check (the first digit is CRC bit) to check validity
-  - they are not case sensitive but generally spelled uppercase for making them more readable
+  - they are not case sensitive but generally spelled uppercase for making them more readable :eyeglasses:
   - they don't appear hyphened of dehyphened and with or without parentheses as with GUIDs
 
 ### Examples ###
@@ -47,7 +47,7 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs
  
 ### Installation ###
 
-This project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.
+This project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.  :thumbsup: :thumbsup:
 
 ### Uses ###
 
