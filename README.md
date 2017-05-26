@@ -54,7 +54,7 @@ This project was created with NetBeans 8 and is a maven project, so it should be
 It has been used for outputting meaningful tags for errors which could then be traced back to the code, it's been used for quickly searching documents and 
 relations among them, basically whenever a GUID is needed this shorter and more compact version has been used.
 
-![GUIDB android screenshot](http://imgur.com/a/iX0rO)
+![GUIDB android screenshot](http://i.imgur.com/vF0aPMm.png)
 
 ### Versioning ###
 
