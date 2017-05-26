@@ -54,6 +54,8 @@ This project was created with NetBeans 8 and is a maven project, so it should be
 It has been used for outputting meaningful tags for errors which could then be traced back to the code, it's been used for quickly searching documents and 
 relations among them, basically whenever a GUID is needed this shorter and more compact version has been used.
 
+![alt text](https://image.freepik.com/free-vector/android-boot-logo_634639.jpg)
+
 ### Versioning ###
 
 Git was used for versioning. For the versions available, see the tags on this repository.
