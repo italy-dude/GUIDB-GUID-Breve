@@ -47,7 +47,13 @@ GUIDB (GUID Breve) a two way reversible function for shortening GUIDs / UUIDs.
  
 ### Installation ###
 
-This project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.  :thumbsup: :thumbsup:
+This repository contains two projects: a Java project and a C# project.
+
+The Java project was created with NetBeans 8 and is a maven project, so it should be a matter of opening it with NetBeans and running the GUIDB main method.  :thumbsup: :thumbsup:
+
+The C# project has been developed with Visual Studio Community, it is a solution project which should be compatible with any version of Visual Studio.
+
+The Android project can be opened with Android Studio.
 
 ### Uses ###
 
